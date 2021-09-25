@@ -1,4 +1,5 @@
-[   {
+[
+    {
         "nickname": "LovelyWei",
         "avatar": "https://hex.moe/img/avatar.jpg",
         "site": "https://hex.moe"
@@ -80,8 +81,13 @@
     },
     {
         "nickname": "SkipM4",
-	"avatar": "https://secure.gravatar.com/avatar/14eaeed4e2084a06a741f86806234729?s=512",
-	"site": "https://skipm4.com"
+        "avatar": "https://secure.gravatar.com/avatar/14eaeed4e2084a06a741f86806234729?s=512",
+        "site": "https://skipm4.com"
+    },
+    {
+        "nickname": "Thinking Null",
+        "avatar": "https://awsl.blog/logo.png",
+        "site": "https://awsl.blog"
     },
     {
         "nickname": "零件",
@@ -152,10 +158,5 @@
         "nickname": "Eana Hufwe",
         "avatar": "https://secure.gravatar.com/avatar/66a90bb0427b2ddd8366d21f96f17689?s=512",
         "site": "https://blog.1a23.com"
-    },
-    {
-        "nickname": "Thinking Null",
-        "avatar": "https://awsl.blog/logo.png",
-        "site": "https://awsl.blog"
     }
 ]
