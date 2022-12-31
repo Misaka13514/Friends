@@ -55,11 +55,6 @@
         "site": "https://www.kskb.eu.org"
     },
     {
-        "nickname": "Reliena",
-        "avatar": "https://secure.gravatar.com/avatar/6765191a1ca4490345e4bf19b78003a3?s=512",
-        "site": "https://blog.cyanoxygen.xyz"
-    },
-    {
         "nickname": "派兹",
         "avatar": "https://secure.gravatar.com/avatar/9e0030fda7b6e9001ee956911f096fd2?s=512",
         "site": "https://blog.blw.moe"
@@ -120,11 +115,6 @@
         "site": "https://yuri.bond"
     },
     {
-        "nickname": "昀喵",
-        "avatar": "https://avatars.githubusercontent.com/u/25706824?s=512",
-        "site": "https://blog.seiuneko.moe"
-    },
-    {
         "nickname": "aisuneko",
         "avatar": "https://aisuneko.pages.dev/images/avatar.webp",
         "site": "https://aisuneko.pages.dev"
@@ -170,11 +160,6 @@
         "site": "https://nekosc.com"
     },
     {
-        "nickname": "477",
-        "avatar": "https://secure.gravatar.com/avatar/b222c8aeac939a8a07b831de3b63ea5a?s=512",
-        "site": "https://blog.cn47mp.moe"
-    },
-    {
         "nickname": "Jimmy Tian",
         "avatar": "https://secure.gravatar.com/avatar/0b7a4c2253965e346881bf944d17781f?s=512",
         "site": "https://www.jimmytian.com"
@@ -213,20 +198,5 @@
         "nickname": "billchenchina",
         "avatar": "https://secure.gravatar.com/avatar/1541e0db587328514c8a2d34de5c5519?s=512",
         "site": "https://billchen.bid"
-    },
-    {
-        "nickname": "Moeka",
-        "avatar": "https://secure.gravatar.com/avatar/6ac0a43b024c62a26db1b33f54204eec?s=512",
-        "site": "https://moeclue.com"
-    },
-    {
-        "nickname": "EdenJohnson",
-        "avatar": "https://pic.edenjohnson.cyou/images/20200625174516.png",
-        "site": "https://blog.edenjohnson.cyou"
-    },
-    {
-        "nickname": "猫村 あおい",
-        "avatar": "https://nekoquq.github.io/images/static/photo_2019-10-01_13-00-13.jpg",
-        "site": "https://nekoquq.github.io"
     }
 ]
