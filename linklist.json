@@ -66,18 +66,8 @@
     },
     {
         "nickname": "Restent Ou",
-        "avatar": "https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg",
+        "avatar": "https://library.restent.win/images/icons/restent.webp",
         "site": "https://blog.restent.win"
-    },
-    {
-        "nickname": "Nyarime",
-        "avatar": "https://secure.gravatar.com/avatar/2fe9b0ae4ac26dcab28d534e43774b2a?s=512",
-        "site": "https://idc.moe"
-    },
-    {
-        "nickname": "kathleen233",
-        "avatar": "https://secure.gravatar.com/avatar/c6c42053ceb2a5baed5c66deb6daf615?s=512",
-        "site": "https://kathleen233.xyz"
     },
     {
         "nickname": "sfc9982",
@@ -97,12 +87,12 @@
     {
         "nickname": "chihuo2104",
         "avatar": "https://secure.gravatar.com/avatar/1e2af2a85785696fa871fb7cd4d54250?s=512",
-        "site": "https://chihuo2104.dev"
+        "site": "https://blog.chihuo2104.dev"
     },
     {
         "nickname": "wetshoes",
         "avatar": "https://avatars.githubusercontent.com/u/43409711?s=512",
-        "site": "https://littlesunnybear.com"
+        "site": "https://littlebear.kolozea.top"
     },
     {
         "nickname": "Muji Togawa",
@@ -128,6 +118,16 @@
         "nickname": "Nofated",
         "avatar": "https://secure.gravatar.com/avatar/796943724d362f138d980df111d8077e?s=512",
         "site": "https://blog.nofated.win"
+    },
+    {
+        "nickname": "dabao1955",
+        "avatar": "https://dpkg123.site/favicon.jpg",
+        "site": "https://dpkg123.site"
+    },
+    {
+        "nickname": "kathleen233",
+        "avatar": "https://secure.gravatar.com/avatar/c6c42053ceb2a5baed5c66deb6daf615?s=512",
+        "site": "https://kathleen233.xyz"
     },
     {
         "nickname": "aisuneko",
@@ -216,12 +216,7 @@
     },
     {
         "nickname": "Hanako",
-        "avatar": "https://yuri.bond/img/hnk.jpg",
-        "site": "https://yuri.bond"
-    },
-    {
-        "nickname": "dabao1955",
-        "avatar": "https://dpkg123.site/favicon.jpg",
-        "site": "https://dpkg123.site"
+        "avatar": "https://hanako.me/img/hnk.jpg",
+        "site": "https://hanako.me"
     }
 ]
