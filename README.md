@@ -5,12 +5,12 @@
 如列有多项仅需使用一项
 
 - 查看
-  - [友链页面](https://blog.atri.tk/links/)
+  - [友链页面](https://blog.apeiria.net/links/)
 - 申请
-  - 在[友链页面](https://blog.atri.tk/links/)留言版留言
+  - 在[友链页面](https://blog.apeiria.net/links/)留言版留言
 - 修改&删除
   - 在[Misaka13514/Friends](https://github.com/Misaka13514/Friends)提交`Pull Request`
-  - 在[友链页面](https://blog.atri.tk/links/)留言版留言
+  - 在[友链页面](https://blog.apeiria.net/links/)留言版留言
   - 在社交网络联系我
 
 ### 要求
@@ -46,12 +46,12 @@
 
 ### 我的友链信息
 
-- 站长名称：`欠陥電気`　/　`Misaka13514`　/　`Misaka_0x34ca`　/　`御坂13514`　/　`御坂13514号`
+- 站长名称：`欠陥電気` / `Misaka13514` / `Misaka_0x34ca` / `御坂13514` / `御坂13514号`
 - 站点名称：`欠陥電気の摸鱼小池`（有其他名称建议可以联系我）
-- 地址：[https://blog.atri.tk](https://blog.atri.tk)
+- 地址：[https://blog.apeiria.net](https://blog.apeiria.net)
 - 描述：Misaka13514的小站（自己写一段也是OK的）
 - Logo：[https://secure.gravatar.com/avatar/bedbc698e8dbf819a84b440b9ad0ee8e?s=你需要的大小](https://secure.gravatar.com/avatar/bedbc698e8dbf819a84b440b9ad0ee8e?s=256)
 
 ### 现存问题
 
-- `*.atri.tk`在中国大陆地区有时存在DNS解析问题，如站点主要访客IP来自中国大陆，请谨慎添加。受此影响的友站可以联系我申请仅在本站添加单向友链。
+- `*.apeiria.net`在中国大陆地区有时存在DNS解析问题，如站点主要访客IP来自中国大陆，请谨慎添加。受此影响的友站可以联系我申请仅在本站添加单向友链。
