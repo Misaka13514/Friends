@@ -19,16 +19,16 @@
 - 站点无大量广告性质内容
 - 需要`nickname`、`avatar`、`site`字段
   - `nickname`
-  昵称
+    昵称
     - 使用你的昵称而不是站点名称
-    - 不超过15个半角字符
+    - 不超过 15 个半角字符
   - `avatar`
     展示的头像图片
     - 使用稳定的外部链接
     - 一般使用[Gravatar](https://gravatar.com)等头像服务网站的链接
     - 使用`超文本传输安全协议(HTTPS)`
   - `site`
-    你站点的URL
+    你站点的 URL
     - 使用`超文本传输安全协议(HTTPS)`
 
 ### 关于未经过交换出现在本站的单向友链
@@ -49,9 +49,5 @@
 - 站长名称：`欠陥電気` / `Misaka13514` / `Misaka_0x34ca` / `御坂13514` / `御坂13514号`
 - 站点名称：`欠陥電気の摸鱼小池`（有其他名称建议可以联系我）
 - 地址：[https://blog.apeiria.net](https://blog.apeiria.net)
-- 描述：Misaka13514的小站（自己写一段也是OK的）
+- 描述：Misaka13514 的小站（自己写一段也是 OK 的）
 - Logo：[https://secure.gravatar.com/avatar/bedbc698e8dbf819a84b440b9ad0ee8e?s=你需要的大小](https://secure.gravatar.com/avatar/bedbc698e8dbf819a84b440b9ad0ee8e?s=256)
-
-### 现存问题
-
-- `*.apeiria.net`在中国大陆地区有时存在DNS解析问题，如站点主要访客IP来自中国大陆，请谨慎添加。受此影响的友站可以联系我申请仅在本站添加单向友链。
