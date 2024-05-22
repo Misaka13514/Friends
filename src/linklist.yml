@@ -4,8 +4,8 @@
 - nickname: 某魏
   avatar: https://secure.gravatar.com/avatar/859eeceaffeec164557ca25d20973d9b?s=512
   site: https://tqlwsl.moe
-- nickname: LovelyWei
-  avatar: https://hex.moe/img/avatar.jpg
+- nickname: Chocolate
+  avatar: https://hex.moe/img/avatar_hue9b59569ad592f400a84e3bd0ed01a8b_4691_300x0_resize_q75_box.jpg
   site: https://hex.moe
 - nickname: Esonhugh
   avatar: https://eson.ninja/img/reol.png
@@ -42,7 +42,7 @@
   site: https://blog.spinmry.moe
 - nickname: scientificworld
   avatar: https://secure.gravatar.com/avatar/7fec0cbe3063b025a5b22efc0bfed5a1?s=512
-  site: https://blog.koishi514.moe
+  site: https://blog.koishi514.moe/archive/
 - nickname: mzwing
   avatar: https://avatars.githubusercontent.com/u/69132261?s=512
   site: https://mzwing.eu.org
@@ -183,7 +183,7 @@
   site: https://blog.cas7.moe
 - nickname: Yukari Chiba
   avatar: https://0x7f.cc/img/favicon.jpg
-  site: https://0x7f.cc/img/favicon.jpg
+  site: https://0x7f.cc
 - nickname: Lan Tian
   avatar: https://lantian.pub/android-chrome-192x192.png
   site: https://lantian.pub
@@ -196,12 +196,12 @@
 - nickname: Ciel
   avatar: https://ciel.dev/assets/images/avatar.jpg
   site: https://ciel.dev
-- nickname: wetshoes
-  avatar: https://avatars.githubusercontent.com/u/43409711?s=512
-  site: https://littlebear.kolozea.top
-- nickname: kathleen233
-  avatar: https://secure.gravatar.com/avatar/c6c42053ceb2a5baed5c66deb6daf615?s=512
-  site: https://kathleen233.xyz
-- nickname: yiheng
-  avatar: https://secure.gravatar.com/avatar/374e36d02476e5b018738aa0df1e726f?s=512
-  site: https://blog.yiheng.moe
+# - nickname: wetshoes
+#   avatar: https://avatars.githubusercontent.com/u/43409711?s=512
+#   site: https://littlebear.kolozea.top
+# - nickname: kathleen233
+#   avatar: https://secure.gravatar.com/avatar/c6c42053ceb2a5baed5c66deb6daf615?s=512
+#   site: https://kathleen233.xyz
+# - nickname: yiheng
+#   avatar: https://secure.gravatar.com/avatar/374e36d02476e5b018738aa0df1e726f?s=512
+#   site: https://blog.yiheng.moe
