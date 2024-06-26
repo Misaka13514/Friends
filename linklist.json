@@ -331,9 +331,9 @@
   },
   {
     "nickname": "abc1763613206",
-    "avatar": "https://secure.gravatar.com/avatar/9272172bbbfed06c08f8f23559158f49?s=512",
+    "avatar": "https://hanlin.press/images/logo/avatar.png",
     "site": "https://blog.hanlin.press",
-    "reciprocal": false
+    "reciprocal": true
   },
   {
     "nickname": "Jerry Xiao",
