@@ -134,6 +134,14 @@
   avatar: https://blog.mashiro.pro/wp-content/uploads/myavatar.jpg
   site: https://blog.mashiro.pro
   reciprocal: true
+- nickname: abc1763613206
+  avatar: https://hanlin.press/images/logo/avatar.png
+  site: https://blog.hanlin.press
+  reciprocal: true
+- nickname: PsycholCN
+  avatar: https://psychol.cn/w/logo.png
+  site: https://psychol.cn
+  reciprocal: true
 - nickname: 御坂12456
   avatar: https://assets.misakacastle.moe/img/avatar/Misaka12456.jpg
   site: https://misakacastle.moe
@@ -218,10 +226,6 @@
   avatar: https://hanako.me/img/hnk.jpg
   site: https://hanako.me
   reciprocal: false
-- nickname: abc1763613206
-  avatar: https://hanlin.press/images/logo/avatar.png
-  site: https://blog.hanlin.press
-  reciprocal: true
 - nickname: Jerry Xiao
   avatar: https://jerryxiao.cc/wp-content/uploads/2022/03/cropped-2_4x_1.png
   site: https://jerryxiao.cc
